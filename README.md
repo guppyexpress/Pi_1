@@ -2,7 +2,7 @@
 
 ## LightHouse BaseStation v1 for Pimax Headsets
 
-This tool looks for Pimax Headset (5k+ at least) then wake up and control the timeout of LightHouse Base Stations v1
+This tool looks for Pimax Headsets then wake up and control the timeout of LightHouse Base Stations v1
 
 ## Informations
 
